@@ -17,4 +17,6 @@ npx tailwindcss init -p</br>
 @tailwind components;</br>
 @tailwind utilities;
 
+<img src="https://i.ibb.co/3CSkdzx/Captura-de-tela-de-2022-04-15-12-26-04.png" width="900" height="500" alt="Captura-de-tela-de-2022-04-15-12-26-04" border="0">
+
 #### Ready!!! Now just enjoy haha
